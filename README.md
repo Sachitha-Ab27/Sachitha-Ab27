@@ -150,9 +150,7 @@
       <p>
         💻 A high quality and guaranteed output is provided as required by the client. I will be engaged in these activities to the best of my ability.( With SSL and SEO )<a/>.
       </p>
-      <p>
-        🌟 Visit my <a href="https:#">portfolio</a> to learn more about me and hire me.
-      </p>
+      
       <h3>Other places you can find me</h3>
       <ul>
         <li>
@@ -172,8 +170,8 @@
   </tr>
 </table>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kavindu-J22&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kavindu-J22&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kavindu-J22&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachitha-Ab27&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sachitha-Ab27&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sachitha-Ab27&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavindu-J22&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Kavindu-J22&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachitha-Ab27&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Sachitha-Ab27&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
