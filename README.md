@@ -151,7 +151,7 @@
         💻 A high quality and guaranteed output is provided as required by the client. I will be engaged in these activities to the best of my ability.( With SSL and SEO )<a/>.
       </p>
       
-      <h3>Other places you can find me</h3>
+<h3>Other places you can find me</h3>
       <ul>
         <li>
           🔶 <a href="https:#">Follow me on Twitter</a>
