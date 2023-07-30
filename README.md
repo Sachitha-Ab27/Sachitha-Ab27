@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachitha-Ab27&label=Profile%20views&color=0e75b6&style=flat" alt="Sachitha-Ab27" /> </p>
 
-<p align="left"> <a href="https://twitter.com/SachithaAb27824" target="blank"><img src="https://img.shields.io/twitter/follow/SachithaAb27824?logo=twitter&style=for-the-badge" alt="SachithaAb27824" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SachithaAb27824" target="blank"><img src="https://img.shields.io/twitter/follow/SachithaAb27824?logo=twitter&style=for-the-badge" alt="Sachitha" /></a> </p>
 
 - 💡 I’m currently learning **Quality Assurance**
 
