@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)]
 <h1 align="center">🖥 Wellcome to My Profile..!⚙</h1>
-<h1 align="center">I'm Kavindu Jayasinghe..<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">I'm Sachitha Abeykoon..<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
@@ -8,23 +8,22 @@
 
 <p align="left"> <a href="https://twitter.com/kavindu" target="blank"><img src="https://img.shields.io/twitter/follow/kavindu?logo=twitter&style=for-the-badge" alt="kavindu" /></a> </p>
 
-- 💡 I’m currently learning **Responsive web designing**
+- 💡 I’m currently learning **Quality Assurance**
 
 - 👯 I’m looking to collaborate on **Github**
 
 - 👨🏻‍💻 Ask me about **MERN , Android , Java , Python , Js , R**
 
-- 📫 How to reach me **kavindujayasinghe2002122@gmail.com**
+- 📫 How to reach me **sachithaabeykoon4567@gmail.com**
 
-- ⚡ Fun fact **Sing And Travel 🍃**
+- ⚡ Fun fact **Playing And Travelling 🍃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kavindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kavindu jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu jayasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/kavindu jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu jayasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/kavindu_jaye_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindu_jaye_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kavindu jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kavindu jayasinghe" height="30" width="40" /></a>
+<a href="https://twitter.com/SachithaAb27824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachitha-abeykoon-2ab20a286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu jayasinghe" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sachitha.abeykoon?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu jayasinghe" height="30" width="40" /></a>
+<a href="https://instagram.com/__sachitha___?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindu_jaye_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
